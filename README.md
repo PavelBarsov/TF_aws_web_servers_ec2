@@ -36,9 +36,5 @@ Below is the architecture diagram that is created using the Terraform code provi
 
 This project demonstrates the deployment of a highly available and scalable infrastructure for web applications on AWS using Terraform. The infrastructure is fully described in code, making it easier to manage, update, and reproduce.
 
-## License
-
-This project is licensed under the MIT License.
-
 
 
