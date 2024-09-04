@@ -8,6 +8,8 @@ This project showcases the **deployment of a scalable and highly available web i
 
 Below is the architecture diagram for the infrastructure created using modular Terraform code:
 
+<img width="1105" alt="ec2-alb-asg" src="https://github.com/user-attachments/assets/63697c26-4dba-4700-85e3-b9efa7b71225">
+
 ### Architecture Components:
 - **VPC and Subnets**: A Virtual Private Cloud (VPC) is created with two public subnets, one in each availability zone, providing high availability for the EC2 instances.
 - **Application Load Balancer (ALB)**: The ALB distributes incoming traffic between EC2 instances in the target group, ensuring load balancing and scalability.
